@@ -1,0 +1,13 @@
+	Um campo ‘Nome’ para ser digitado o nome da bebida;
+	Um campo ‘Marca’ para ser digitada a marca da bebida;
+	Um campo ‘Quantidade’ para ser digitada a quantidade de bebidas a que será comprada e posteriormente adicionada ao estoque;
+	Um campo ‘Unidade de medida’ para ser digitada o tamanho da bebida( exemplo: Mililitro, litro, dose...);
+	Um campo ‘Valor unitário’ para ser digitada quanto será pago por cada bebida;
+	Um campo ‘Valor Total’ para calcular a multiplicação do valor unitário pela quantidade de bebidas a ser comprada;
+	Um campo ‘Fabricação’ para ser digitada a data de fabricação do produto;
+	Um campo ‘Validade’ para ser digitada a data de validade do produto;
+	Um botão para selecionar se a bebida é alcoólica ou não;
+	Um botão ‘salvar’ para arquivar os dados digitados e enviá-los 
+	Um campo com ‘Informações extras do produto’ para ser digitado comentário do produto. 
+	Um campo com ‘Recomendações do produto’ para informar as recomendações dos produtos.
+	Um campo com ‘Divulgação de outros produtos’ para informar outros produtos novos do mercado. 
